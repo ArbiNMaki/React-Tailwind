@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-import Logo from "../assets/img/logo.png";
+import Logo from "../assets/img/logo-v2.png";
 import Nav from "../components/Nav";
 import NavMobile from "../components/NavMobile";
 
